@@ -34,3 +34,9 @@ data/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Asset Store packages (large / not redistributable) - import via Package Manager > My Assets
+/Assets/TerrainSampleAssets/
+/Assets/TerrainSampleAssets.meta
+/Assets/Starter Assets/
+/Assets/Starter Assets.meta
