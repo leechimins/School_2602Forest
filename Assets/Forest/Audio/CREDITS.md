@@ -11,3 +11,5 @@ All sounds are from OpenGameArt.org under **CC0 (public domain)** — free to us
 Files were downloaded on 2026-11-24 and renamed only (no edits).
 
 Particle sprites in `../Particles/` (`Particle Round Solid.png`, `Particle Star.png`) are from the VR/AR2 course materials (Project3C).
+
+The stress-task warning beep is **not a file**: `StressTask.cs` generates an 880 Hz sine tone (0.35 s) in code with `AudioClip.Create`, so no third-party audio or license is involved.
